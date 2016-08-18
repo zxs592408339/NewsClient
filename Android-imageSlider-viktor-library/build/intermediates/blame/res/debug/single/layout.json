@@ -1,5 +1,13 @@
 [
     {
+        "merged": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\render_type_text.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\NewsClientApplication\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\slider_layout.xml"
     },
@@ -12,7 +20,15 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\NewsClientApplication\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\render_type_default.xml"
     },
     {
+        "merged": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\indicator_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\NewsClientApplication\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\src\\main\\res\\layout\\slider_layout.xml"
     }
 ]

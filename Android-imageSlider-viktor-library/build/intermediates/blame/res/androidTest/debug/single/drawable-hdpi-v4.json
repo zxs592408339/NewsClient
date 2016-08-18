@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\NewsClientApplication\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
     }
 ]
